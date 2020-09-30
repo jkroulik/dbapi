@@ -1,7 +1,5 @@
-package com.test.dbapi.controller;
+package com.test.dbapi.service;
 
-import com.test.dbapi.service.Column;
-import com.test.dbapi.service.DbService;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;
